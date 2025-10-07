@@ -4,4 +4,5 @@ Se agrega modificacion
 Se hace otra entrega del PC
 Cambio usuario A
 
-Se agrega Ususario B
+Se modifica usuario B
+Se agtea cambio de usuario B
