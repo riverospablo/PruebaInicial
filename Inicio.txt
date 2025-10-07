@@ -2,3 +2,6 @@ Archivo -
 Prueba
 Se agrega modificacion
 Se hace otra entrega del PC
+Cambio usuario A
+
+Se agrega Ususario B
